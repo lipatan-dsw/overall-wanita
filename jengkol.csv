@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Overall Denim / Jeans Wanita - NU 109 Murah,overall-denim-jeans-wanita-nu-109,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Setelan Rompi Celana / Overall Casual Wanita - NU 127 Murah,setelan-rompi-celana-overall-casual-wanita-nu-127,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Overall Denim / Jeans Wanita - NU 109 Murah,overall-denim-jeans-wanita-nu-1
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Overall Denim / Jeans Wanita - NU 109 Murah,overall-denim-jeans-wanita-nu-1
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Overall Denim Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Denim / Jeans Wanita - NU 109 dengan bahan DENIM ini dijamin awet.<br/>Kode : NU 109<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XXL<br/>Berat : 0.6 kg<br>
+         <p>Setelan Rompi Celana / Overall Casual Wanita - NU 127 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan COTTON.<br/>Kode : NU 127<br/>Warna : COKLAT MUDA<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = BAHAN : BALOTELI<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Overall Denim / Jeans Wanita - NU 109 Murah,overall-denim-jeans-wanita-nu-1
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,overall-denim-wanita,catenzo,overall-denim-wanita,catenzo,"Overall Denim Wanita Bahan DENIM, Ukuran S - XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/641-nu-109.jpg,Overall Denim / Jeans Wanita - NU 109,Rp 172.900,NU 109,Baru
-Jual Overall Denim / Jeans Wanita - NU 110 Murah,overall-denim-jeans-wanita-nu-110,"
+     </div><!--/category-tab-->",2017-10-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Ukuran S - XL, Warna COKLAT MUDA",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/507-nu-127.jpg,/,/,/,/,/,Setelan Rompi Celana / Overall Casual Wanita - NU 127,Rp 151.400,Rp 177.900,Rp 26.500,NU 127,Baru
+Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 087 Murah,setelan-rompi-celana-overall-casual-wanita-zm-087,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Overall Denim / Jeans Wanita - NU 110 Murah,overall-denim-jeans-wanita-nu-1
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Overall Denim / Jeans Wanita - NU 110 Murah,overall-denim-jeans-wanita-nu-1
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Overall Denim Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Denim / Jeans Wanita - NU 110 dengan bahan DENIM ini dijamin awet.<br/>Kode : NU 110<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XXL<br/>Berat : 0.6 kg<br>
+         <p>Setelan Rompi Celana / Overall Casual Wanita - ZM 087 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan RAJUT.<br/>Kode : ZM 087<br/>Warna : ABU ABU<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +126,8 @@ Jual Overall Denim / Jeans Wanita - NU 110 Murah,overall-denim-jeans-wanita-nu-1
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,overall-denim-wanita,catenzo,overall-denim-wanita,catenzo,"Overall Denim Wanita Bahan DENIM, Ukuran S - XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/642-nu-110.jpg,Overall Denim / Jeans Wanita - NU 110,Rp 172.900,NU 110,Baru
-Jual Overall Denim / Jeans Wanita - NU 105 Murah,overall-denim-jeans-wanita-nu-105,"
+     </div><!--/category-tab-->",2017-10-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan RAJUT, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/508-zm-087.jpg,/,/,/,/,/,Setelan Rompi Celana / Overall Casual Wanita - ZM 087,Rp 100.900,Rp 118.900,Rp 18.000,ZM 087,Baru
+Jual Setelan Rompi Celana / Overall Casual Wanita - RG 028 Murah,setelan-rompi-celana-overall-casual-wanita-rg-028,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -150,6 +152,7 @@ Jual Overall Denim / Jeans Wanita - NU 105 Murah,overall-denim-jeans-wanita-nu-1
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -172,7 +175,7 @@ Jual Overall Denim / Jeans Wanita - NU 105 Murah,overall-denim-jeans-wanita-nu-1
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Overall Denim Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Denim / Jeans Wanita - NU 105 dengan bahan DENIM ini dijamin awet.<br/>Kode : NU 105<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XXL<br/>Berat : 0.5 kg<br>
+         <p>Setelan Rompi Celana / Overall Casual Wanita - RG 028 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan COTTON.<br/>Kode : RG 028<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,67 +190,4 @@ Jual Overall Denim / Jeans Wanita - NU 105 Murah,overall-denim-jeans-wanita-nu-1
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-23,html,overall-denim-wanita,catenzo,overall-denim-wanita,catenzo,"Overall Denim Wanita Bahan DENIM, Ukuran S - XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/643-nu-105.jpg,Overall Denim / Jeans Wanita - NU 105,Rp 187.400,NU 105,Baru
-Jual Overall Denim / Jeans Wanita - RG 026 Murah,overall-denim-jeans-wanita-rg-026,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Overall Denim Wanita merek Catenzo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Denim / Jeans Wanita - RG 026 dengan bahan DENIM ini dijamin awet.<br/>Kode : RG 026<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S - XL<br/>Berat : 0.5 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         Gudang : WRH-1<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-08-23,html,overall-denim-wanita,catenzo,overall-denim-wanita,catenzo,"Overall Denim Wanita Bahan DENIM, Ukuran S - XL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2017/foto-produk-satuan/644-rg-026.jpg,Overall Denim / Jeans Wanita - RG 026,Rp 143.900,RG 026,Baru
+     </div><!--/category-tab-->",2017-10-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Ukuran S - XL, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/510-rg-028.jpg,/,/,/,/,/,Setelan Rompi Celana / Overall Casual Wanita - RG 028,Rp 147.400,Rp 172.900,Rp 25.500,RG 028,Baru
