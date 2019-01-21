@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 094 Murah,zm-094,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargadropship,minimalprice,sku,kondisi
+Jual Overall Casual Wanita - NU 142 Murah,nu-142,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,7 +24,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 094 Murah,zm-094,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -47,7 +47,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 094 Murah,zm-094,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - ZM 094 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan RAJUT.<br/>Kode : ZM 094<br/>Warna : HITAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - NU 142 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : NU 142<br/>Warna : CREAM<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 500 gram<br/>Info Lainnya = SERENA<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -60,8 +60,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 094 Murah,zm-094,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan RAJUT, Ukuran AS, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/zm-094.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - ZM 094,Rp 98.900,Rp 113.900,Rp 15.000,ZM 094,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 087 Murah,zm-087,"
+     </div><!--/category-tab-->",2019-01-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Warna CREAM, Size S ~ XL",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/nu-142.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - NU 142,Rp 205.900,Rp 168.900,Rp 185.900,NU 142,Baru
+Jual Overall Casual Wanita - RG 028 Murah,rg-028,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -86,7 +86,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 087 Murah,zm-087,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -109,7 +109,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 087 Murah,zm-087,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - ZM 087 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan RAJUT.<br/>Kode : ZM 087<br/>Warna : ABU ABU<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - RG 028 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RG 028<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -122,8 +122,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - ZM 087 Murah,zm-087,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan RAJUT, Ukuran AS, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/zm-087.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - ZM 087,Rp 100.900,Rp 116.900,Rp 16.000,ZM 087,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - RG 028 Murah,rg-028,"
+     </div><!--/category-tab-->",2019-01-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Warna ABU ABU, Size S ~ XL",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/rg-028.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - RG 028,Rp 205.900,Rp 168.900,Rp 185.900,RG 028,Baru
+Jual Overall Casual Wanita - NU 130 Murah,nu-130,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -148,7 +148,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - RG 028 Murah,rg-028,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -171,7 +171,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - RG 028 Murah,rg-028,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - RG 028 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan COTTON.<br/>Kode : RG 028<br/>Warna : ABU ABU<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - NU 130 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : NU 130<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -184,8 +184,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - RG 028 Murah,rg-028,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Ukuran S ~ XL, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rg-028.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - RG 028,Rp 151.900,Rp 174.900,Rp 23.000,RG 028,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - NU 127 Murah,nu-127,"
+     </div><!--/category-tab-->",2019-01-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan DENIM, Warna BIRU, Size S ~ XXL",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/nu-130.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - NU 130,Rp 253.900,Rp 208.900,Rp 229.900,NU 130,Baru
+Jual Overall Casual Wanita - NU 110 Murah,nu-110,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -210,7 +210,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 127 Murah,nu-127,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -233,7 +233,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 127 Murah,nu-127,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - NU 127 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan COTTON.<br/>Kode : NU 127<br/>Warna : COKLAT MUDA<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 700 gram<br/>Info Lainnya = BAHAN : BALOTELI<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - NU 110 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : NU 110<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -246,8 +246,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 127 Murah,nu-127,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan COTTON, Ukuran S ~ XL, Warna COKLAT MUDA",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/nu-127.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - NU 127,Rp 151.900,Rp 174.900,Rp 23.000,NU 127,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - NU 109 Murah,nu-109,"
+     </div><!--/category-tab-->",2019-01-16,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan DENIM, Warna BIRU, Size S ~ XXL",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/nu-110.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - NU 110,Rp 236.900,Rp 193.900,Rp 213.900,NU 110,Baru
+Jual Overall Casual Wanita - RBE 024 Murah,rbe-024,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -272,7 +272,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 109 Murah,nu-109,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -295,7 +295,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 109 Murah,nu-109,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - NU 109 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan DENIM.<br/>Kode : NU 109<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - RBE 024 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RBE 024<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -308,8 +308,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 109 Murah,nu-109,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan DENIM, Ukuran S ~ XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/nu-109.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - NU 109,Rp 178.900,Rp 205.900,Rp 27.000,NU 109,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - NU 130 Murah,nu-130,"
+     </div><!--/category-tab-->",2019-01-17,html,overall-wanita,raindoz,overall-wanita,raindoz,"Overall Wanita Bahan DENIM, Warna BIRU, Size S ~ XXL",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rbe-024.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - RBE 024,Rp 264.900,Rp 217.900,Rp 239.900,RBE 024,Baru
+Jual Overall Casual Wanita - RKA 020 Murah,rka-020,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -334,7 +334,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 130 Murah,nu-130,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -357,7 +357,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 130 Murah,nu-130,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - NU 130 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan DENIM.<br/>Kode : NU 130<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - RKA 020 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RKA 020<br/>Warna : ABU KOMBINASI<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 900 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -370,8 +370,8 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 130 Murah,nu-130,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan DENIM, Ukuran S ~ XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/nu-130.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - NU 130,Rp 191.900,Rp 220.900,Rp 29.000,NU 130,Baru
-Jual Setelan Rompi Celana / Overall Casual Wanita - NU 110 Murah,nu-110,"
+     </div><!--/category-tab-->",2019-01-17,html,overall-wanita,raindoz,overall-wanita,raindoz,"Overall Wanita Bahan COTTON, Warna ABU KOMBINASI, Size S ~ XL",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rka-020.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - RKA 020,Rp 269.900,Rp 220.900,Rp 243.900,RKA 020,Baru
+Jual Overall Casual Wanita - RKO 036 Murah,rko-036,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -396,7 +396,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 110 Murah,nu-110,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -419,7 +419,7 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 110 Murah,nu-110,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Setelan Rompi Celana / Overall Casual Wanita - NU 110 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Overall Wanita ini terbuat dari bahan DENIM.<br/>Kode : NU 110<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : S ~ XXL<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Overall Casual Wanita - RKO 036 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RKO 036<br/>Warna : BIRU<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 900 gram<br/>Info Lainnya = + KEMEJA DALAM<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -432,4 +432,66 @@ Jual Setelan Rompi Celana / Overall Casual Wanita - NU 110 Murah,nu-110,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,overall-wanita,catenzo,overall-wanita,catenzo,"Overall Wanita Bahan DENIM, Ukuran S ~ XXL, Warna BIRU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/nu-110.jpg,-/-,-/-,-/-,-/-,-/-,Setelan Rompi Celana / Overall Casual Wanita - NU 110,Rp 178.900,Rp 205.900,Rp 27.000,NU 110,Baru
+     </div><!--/category-tab-->",2019-01-17,html,overall-wanita,raindoz,overall-wanita,raindoz,"Overall Wanita Bahan COTTON, Warna BIRU, Size S ~ XL",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rko-036.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - RKO 036,Rp 259.900,Rp 212.900,Rp 234.900,RKO 036,Baru
+Jual Overall Casual Wanita - RWH 031 Murah,rwh-031,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        {% include dropship-login.html %} 
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Overall Casual Wanita - RWH 031 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RWH 031<br/>Warna : COKLAT<br/>Bahan : COTTON<br/>Ukuran : S ~ XL<br/>Berat : 800 gram<br/>Info Lainnya = + MANSET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2019-01-17,html,overall-wanita,raindoz,overall-wanita,raindoz,"Overall Wanita Bahan COTTON, Warna COKLAT, Size S ~ XL",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rwh-031.jpg,-/-,-/-,-/-,-/-,-/-,Overall Casual Wanita - RWH 031,Rp 259.900,Rp 212.900,Rp 234.900,RWH 031,Baru
